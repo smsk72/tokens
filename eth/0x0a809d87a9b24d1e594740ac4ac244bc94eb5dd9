@@ -1,0 +1,11 @@
+{
+ "name": "SHIBA PUBG",
+ "website": "https://shibapubg.com",
+ "description": "A leading multi-chain wallet that supports ETH",
+ "explorer": "https://etherscan.io/address/0x0a809d87a9b24d1e594740ac4ac244bc94eb5dd9",
+ "type": "ERC20",
+ "symbol": "SHIP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x04f3544f72133f318cc41fcf35e78b8c58cba254"
+}
